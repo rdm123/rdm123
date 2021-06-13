@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rdm.rkmvp@gmail.com**
 
-- ⚡ Fun fact **I Think I am funny 😃**
+- ⚡ Fun fact **I Think I am funny 😃 and I love Memes 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
