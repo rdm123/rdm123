@@ -2,7 +2,7 @@
 <h2 align="center">I am a student of Jalpaiguri Government Engineering College in Computer Science and Engineering Department.🧑‍💻</h2>
 <h3 align="center">A passionate full stack developer,Competitive programmer,Learner.📝</h3>
 
-- 🌱 I’m currently learning **new skills and exploring this**
+- 🌱 I’m currently learning **new skills and exploring these skills.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rdm123](https://github.com/rdm123)
 
