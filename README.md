@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rdm123](https://github.com/rdm123)
 
-- 💬 Ask me about **C,Python,JavaScript,DBMS,HTML,CSS**
+- 💬 Ask me about **C,Python,JavaScript,DBMS,HTML,CSS,DS&ALGO**
 
 - 📫 How to reach me **rdm.rkmvp@gmail.com**
 
