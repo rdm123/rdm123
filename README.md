@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 👋!! I'm Rahuldev Mondal</h1>
+<h1 align="center">Hello everyone !!👋 I'm Rahuldev Mondal</h1>
 <h2 align="center">I am a student of Jalpaiguri Government Engineering College from Computer Science and Engineering Department.🧑‍💻</h2>
 <h3 align="center">A passionate full stack developer,Competitive programmer,Learner.📝</h3>
 
