@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C,Python,JavaScript,DBMS,HTML,CSS,DS&ALGO**
 
-- 📫 How to reach me **rdm.rkmvp@gmail.com**
+- 📫 How to reach me **follow me on social media**
 
 - ⚡ Fun fact **I Think I am funny 😃 and I love Memes 😂**
 
