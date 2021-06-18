@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C,Python,JavaScript,DBMS,HTML,CSS,DS&ALGO**
 
-- 📫 How to reach me **follow me on social media**
+- 📫 How to reach me **follow my social media profiles**
 
 - ⚡ Fun fact **I Think I am funny 😃 and I love Memes 😂**
 
