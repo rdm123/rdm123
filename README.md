@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **follow my social media profiles**
 
-- ⚡ Fun fact **I Think I am funny 😃😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahuldev-mondal-71a05a196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahuldev-mondal-71a05a196" height="30" width="40" /></a>
