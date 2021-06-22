@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C,Python,JavaScript,DBMS,HTML,CSS,DS&ALGO**
 
-- 📫 How to reach me **follow my social media profiles**
+- 📫 How to reach me **follow my social media profiles 👇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
