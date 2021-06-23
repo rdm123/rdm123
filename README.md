@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **C,Python,JavaScript,DBMS,HTML,CSS,DS&ALGO**
 
+- 🌐 My Portfolio <a url="https://rdmondal.blogspot.com/?m=0">https://rdmondal.blogspot.com/?m=0</a>
+
 - 📫 How to reach me **follow my social media profiles 👇**
 
 <h3 align="left">Connect with me:</h3>
