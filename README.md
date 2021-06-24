@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at  👇 <br>[https://github.com/rdm123](https://github.com/rdm123)
 
-- 💬 Ask me about **C,Python,JavaScript,DBMS,HTML,CSS,DS&ALGO**
+- 💬 Ask me about **C,Python,Java,JavaScript,DBMS,HTML,CSS,DS&ALGO**
 
 - 🌐 My Portfolio 👉<a url="https://rdmondal.blogspot.com/?m=0">https://rdmondal.blogspot.com/?m=0</a>
 
