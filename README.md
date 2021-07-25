@@ -10,7 +10,7 @@
 
 - 🌐 My Portfolio 👉<a url="https://rdmondal.blogspot.com/?m=0">https://rdmondal.blogspot.com/?m=0</a>
 
-- 📫 How to reach me **follow my social media profiles 👇**
+- 📫 How to reach me **follow me here 👇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
