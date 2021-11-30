@@ -6,8 +6,8 @@
 
 - 👨‍💻 All of my projects are available at  👇 <br>[https://github.com/rdm123](https://github.com/rdm123)
 
-- 💬 Ask me about **C,Python,Java,JavaScript,DBMS,HTML,CSS,DS&ALGO**
-
+- 💬 Ask me about **C,C++,Python,OOPS,MySQL,DBMS,HTML,CSS,DS&ALGO**
+- MY GEEKSFORGEEKS ACCOUNT:-https://auth.geeksforgeeks.org/user/rdm123/practice/
 - 🌐 My Portfolio 👉<a url="https://rdmondal.blogspot.com/?m=0">https://rdmondal.blogspot.com/?m=0</a>
 - 📄My CV <a href="https://drive.google.com/file/d/1Wtdt0KIz5ZxBQNzePrNumEBRos739yum/view?usp=drivesdk">CLICK HERE</a>
 - 📫 How to reach me **follow me here 👇**
