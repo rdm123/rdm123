@@ -9,7 +9,7 @@
 - 💬 Ask me about **C,C++,Python,OOPS,MySQL,DBMS,HTML,CSS,DS&ALGO**
 - MY GEEKSFORGEEKS ACCOUNT:-https://auth.geeksforgeeks.org/user/rdm123/practice/
 - 🌐 My Portfolio 👉<a url="https://rdmondal.blogspot.com/?m=0">https://rdmondal.blogspot.com/?m=0</a>
-- 📄My CV <a href="https://drive.google.com/file/d/1Wtdt0KIz5ZxBQNzePrNumEBRos739yum/view?usp=drivesdk">CLICK HERE</a>
+- 📄My CV <a href="https://drive.google.com/file/d/1aznhz7L9JLKnNiuJedPT4suvmfNtC90E/view?usp=sharing">CLICK HERE</a>
 - 📫 How to reach me **follow me here 👇**
 
 <h3 align="left">SOCIAL PROFILES:</h3>
