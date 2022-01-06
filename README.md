@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at  👇 <br>[https://github.com/rdm123](https://github.com/rdm123)
 
 - 💬 Ask me about **C,Python,OOPS,MySQL,DBMS,HTML,CSS,Data Structures**
-- MY GEEKSFORGEEKS ACCOUNT:-https://auth.geeksforgeeks.org/user/rdm123/practice/
+
 - 🌐 My Portfolio 👉<a url="https://rdmondal.blogspot.com/?m=0">https://rdmondal.blogspot.com/?m=0</a>
 - 📄<ins>My Resume</ins> <a href="https://drive.google.com/file/d/1dqPYll3jz3YvF9pWRgg03ohbHPPMNSrt/view?usp=drivesdk">CLICK HERE</a>
 - 📫 How to reach me **follow me here 👇**
@@ -21,6 +21,7 @@
 <a href="https://www.hackerrank.com/rdm_rkmvp?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rdm_rkmvp" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rdm.rkmvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rdm.rkmvp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user9791j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9791j" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/rdm123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rdm123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
