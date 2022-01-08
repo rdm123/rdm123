@@ -9,7 +9,7 @@
 - 💬 Ask me about **C,Python,OOPS,MySQL,DBMS,HTML,CSS,Data Structures**
 
 - 🌐 <ins><a href="https://rdmondal.blogspot.com/?m=0">My Portfolio</a></ins>
-- 📄<ins><a href="https://drive.google.com/file/d/1dqPYll3jz3YvF9pWRgg03ohbHPPMNSrt/view?usp=drivesdk">My Resume</a></ins>
+- 📄<ins><a href="https://drive.google.com/file/d/1dqPYll3jz3YvF9pWRgg03ohbHPPMNSrt/view?usp=drivesdk" target="_blank">My Resume</a></ins>
 - 📫 How to reach me **follow me here 👇**
 
 <h3 align="left">SOCIAL PROFILES:</h3>
