@@ -1,16 +1,16 @@
 <h1 align="center">Hello everyone !!👋 I'm Rahuldev Mondal</h1>
-<h2 align="center">I am a student of Jalpaiguri Government Engineering College from Computer Science and Engineering Department.🧑‍💻</h2>
-<h3 align="center">A passionate Web developer,Competitive programmer,Learner, Creative Lover.📝</h3>
+<h2 align="center">I am an Automation Engineer at Ericsson with over 1.5 years of hands-on experience in the field. I have completed my undergraduate degree in Computer Science Engineering from Jalpaiguri Government Engineering College.🧑‍💻</h2>
 
-- 🌱 I’m currently learning **Back-End Technologies.**
+<h3 align="center">Inerested in DevOps, Cloud, Competitive Programming, CI/CD, Database Managements.📝</h3>
+
 
 - 👨‍💻 All of my projects and repositories are available at  👇 <br>[https://github.com/rdm123](https://github.com/rdm123)
 
-- 💬 Ask me about **C,Python,OOPS,MySQL,DBMS,HTML,CSS,Data Structures**
+- 💬 Ask me about **C,Python,OOPS,MySQL,DBMS,AWS,AZure DevOps,CI/CD,Snowflake,Data Structures**
 
 - 🌐 <ins><a href="https://rdmondal.blogspot.com/?m=0">My Portfolio</a></ins>
 - 📄<ins><a target="_blank" href="https://drive.google.com/file/d/1fnNPggMASp1MZCGu0Gqgq6SMsD11_Ylb/view?usp=sharing" >My Resume</a></ins>
-- 📫 How to reach me **follow me here 👇**
+- 📫 Snowflake Badges- <a target="_blank" href="https://achieve.snowflake.com/profile/rahuldevmondal748495/wallet">Click here</a>
 
 <h3 align="left">SOCIAL PROFILES:</h3>
 <br>
