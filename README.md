@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C,Python,OOPS,MySQL,DBMS,AWS,AZure DevOps,CI/CD,Snowflake,Data Structures**
 
-- 🌐 <ins><a href="https://rdmondal.blogspot.com/?m=0">My Portfolio</a></ins>
+- 🌐 <ins><a href="https://rahuldevmondal.netlify.app/">My Portfolio</a></ins>
 - 📄<ins><a target="_blank" href="https://drive.google.com/file/d/1fnNPggMASp1MZCGu0Gqgq6SMsD11_Ylb/view?usp=sharing" >My Resume</a></ins>
 - 📫 Snowflake Badges- <a target="_blank" href="https://achieve.snowflake.com/profile/rahuldevmondal748495/wallet">Click here</a>
 
