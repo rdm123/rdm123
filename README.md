@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone !!👋 I'm Rahuldev Mondal</h1>
-<h2 align="center">I am an Automation Engineer at Ericsson with over 1.5 years of hands-on experience in the field. I have completed my undergraduate degree in Computer Science Engineering from Jalpaiguri Government Engineering College.🧑‍💻</h2>
+<h2 align="center">I am an Automation Engineer at Ericsson with over 2.5 years of hands-on experience in the field. I have completed my undergraduate degree in Computer Science Engineering from Jalpaiguri Government Engineering College.🧑‍💻</h2>
 
 <h3 align="center">Inerested in DevOps, Cloud, Competitive Programming, CI/CD, Database Managements.📝</h3>
 
